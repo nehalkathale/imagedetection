@@ -13,14 +13,20 @@ Image detection app using React and Tensorflow.js(COCO SSD)
 # Setup:
 git clone the repo and cd into it by running the following command:
 <br />
-git clone https://github.com/nehalkathale/objectdetection
+  ``` git clone https://github.com/nehalkathale/objectdetection ```
 <br />
-cd objectdetection
+Change directory to objectdetection:
 <br />
-npm install
+``` cd objectdetection ```
+<br />
+Install all dependencies: 
+<br />
+``` npm install ```
 <br />
 
 # Run the App:
-npm start
+Start React app: 
+<br />
+``` npm start ```
 <br />
 Open http://localhost:3000 to view it in the browser.
